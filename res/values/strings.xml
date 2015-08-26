@@ -1,0 +1,13 @@
+<resources>
+
+   <string name="app_name">freydemo</string>
+   <string name="app_id">1748617492032404</string>
+    
+   <string name="cancelled">Cancelled</string>
+   <string name="ok">OK</string>
+   <string name="error">Error</string>
+   <string name="success">Success</string>
+    <string name="hello_user">Hello %1$s!</string>
+   <string name="successfully_posted_post">Post ID: %1$s</string>
+   <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+</resources>

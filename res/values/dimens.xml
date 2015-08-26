@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+	<dimen name="kids_personcenter_list_height">58dip</dimen>
+	<dimen name="kids_personcenter_list_marginTop">26dip</dimen>
+	<dimen name="kids_personcenter_list_marginTop1">120dip</dimen>
+	<dimen name="kids_personcenter_head_marginTop">35dip</dimen>
+	<dimen name="kids_personcenter_head_marginLeft">19dip</dimen>
+	
+	<!-- 头像 -->
+	<dimen name="kids_bighead_width">120px</dimen>
+	<dimen name="kids_bighead_hight">120px</dimen>
+	<dimen name="kids_smallhead_width">80px</dimen>
+	<dimen name="kids_smallhead_hight">80px</dimen>
+	<dimen name="kids_chathead_width">62px</dimen>
+	<dimen name="kids_chathead_hight">62px</dimen>
+
+	<!-- 弹出框 -->
+	<dimen name="kids_dialogarea_width">406px</dimen>
+	
+	<!-- 聊天-->
+	<dimen name="kids_chat_list_marginbottom">82dip</dimen>
+	<dimen name="kids_chat_iv_picture">187px</dimen>
+	<!--  -->
+	
+	<dimen name="kids_register_verifaction_margintop">260px</dimen>
+	
+	<!-- 搜索好友并添加成功后 弹出对话框 -->
+	<dimen name="kids_search_result_width">290dp</dimen>
+	<dimen name="kids_search_result_height">90dp</dimen>
+	<dimen name="kids_search_result_btn_height">40dp</dimen>
+	
+	<!-- 远程配置用户管理 -->
+	<dimen name="set_user_width">456px</dimen>
+	<dimen name="set_pad_select_maxwidth">125sp</dimen>
+	<dimen name="set_pad_select_pading_left">32sp</dimen>
+	
+	<dimen name="ldrawer_drawableSize">50dp</dimen>
+    <dimen name="ldrawer_barSize">18dp</dimen>
+    <dimen name="ldrawer_topBottomBarArrowSize">11dp</dimen>
+    <dimen name="ldrawer_thickness">2dp</dimen>
+    <dimen name="ldrawer_gapBetweenBars">3dp</dimen>
+    <dimen name="ldrawer_middleBarArrowSize">16dp</dimen>
+    <dimen name="navdrawer_width">260dp</dimen>
+    
+
+</resources>
